@@ -24,10 +24,6 @@ This application uses the following technologies:
 
 You can see a live demo of this application [here](https://faceexpressiondetector.netlify.app/).
 
-## Usage
-
-To use this application, you can clone this repository and open the `index.html` file in your browser. You will need to grant access to your webcam to use the real-time face detection feature.
-
 ## Credits
 
 This project was inspired by the face-api.js library, developed by Vincent Mühler and other contributors. 
