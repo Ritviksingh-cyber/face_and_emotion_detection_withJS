@@ -30,7 +30,7 @@ To use this application, you can clone this repository and open the `index.html`
 
 ## Credits
 
-This project was inspired by the face-api.js library, developed by Vincent Mühler and other contributors. .
+This project was inspired by the face-api.js library, developed by Vincent Mühler and other contributors. 
 
 ![Screenshot (30)](https://user-images.githubusercontent.com/75081330/224251630-b1679e6a-b57e-4b7e-9471-0b6af06c4812.png)
 ![Screenshot (31)](https://user-images.githubusercontent.com/75081330/224251659-21b44f05-f19f-4a1c-9541-23455ba7833b.png)
