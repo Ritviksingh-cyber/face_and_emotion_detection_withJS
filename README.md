@@ -22,7 +22,7 @@ This application uses the following technologies:
 
 ## Demo
 
-You can see a live demo of this application [here](link-to-live-demo).
+You can see a live demo of this application [here](https://faceexpressiondetector.netlify.app/).
 
 ## Usage
 
