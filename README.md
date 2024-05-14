@@ -1,5 +1,5 @@
 
-# Face Detection with JavaScript
+# Face and Emotion Detection with JavaScript
 
 This repository contains a web application that uses JavaScript and the face-api.js library to detect faces in images and videos. The application uses the webcam of the user's device to capture live video and perform real-time face detection.
 
